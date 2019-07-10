@@ -1,0 +1,324 @@
+*
+		{
+			margin:0;
+			padding:0;
+			/*background: url(ll.jpg);*/
+			background-repeat: no-repeat;
+			background-size: 100%;
+			/*background-color:#92748D;*/
+
+
+
+		}
+		.top_heading
+		{
+			width: 90%;
+			height: 50px;
+			/*border:1px solid black;*/
+			/*background-color: red;*/
+			margin: auto;
+			margin-top: 5px;
+			border-radius: 10px;
+			/*background: lightblue;*/
+			text-decoration: underline;
+			text-decoration-color: black;
+			background-color: #DB5433;
+			box-shadow: 2px 2px 5px;
+
+
+		}
+
+
+		.top_heading h1
+		{
+			text-align: center;
+		}
+		.source
+		{
+			width: 80%;
+			height: 20px;
+			/*border:1px solid black;*/
+			/*background-color: red;*/
+			margin: auto;
+			margin-top: 7px;
+			border-radius: 10px;
+			box-shadow: 2px 2px 5px;
+		}
+		.source h3
+		{
+			text-align: center;
+		}
+		.source h3 a img
+		{
+			width: 18px;
+			height: 18px;
+
+		}
+		.main
+		{
+
+			width: 80%;
+			height: 490px;
+			border:1px solid #B6F098;
+			/*background-color: red;*/
+			margin: auto;
+			margin-top: 20px;
+			border-radius: 10px;
+			background-color:#B6F098;
+			box-shadow: 2px 2px 5px;
+		}
+			.ind
+			{
+			width: 10%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+  			text-align: center;
+
+			}
+
+			.ind:hover
+			{
+				background-color: blue;
+				width: 84%;
+
+
+
+
+			}
+
+
+
+			.usa
+			{
+			width: 10%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.usa:hover
+			{
+				background-color: yellow;
+				width: 61%;
+			}
+
+
+
+
+			.bra
+			{
+			width:10%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.bra:hover
+			{
+				background-color: orange;
+				width: 39%;
+			}
+
+
+			.indo
+			{
+			width: 13%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+			}
+
+			.indo:hover
+			{
+				background-color: red;
+				width: 39%;
+			}
+
+
+
+			.mex
+			{
+			width: 13%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.mex:hover
+			{
+				background-color: navy;
+				width: 26%;
+			}
+
+
+			.phi
+			{
+			width: 13%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.phi:hover
+			{
+				background-color: maroon;
+				width: 21%;
+			}
+
+
+			.vie
+			{
+			width: 13%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.vie:hover
+			{
+				background-color: red;
+				width: 18%;
+			}
+
+			.thi
+			{
+			width: 13%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.thi:hover
+			{
+				background-color: pink;
+				width: 15%;
+			}
+
+
+
+			.tur
+			{
+			width: 10%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.tur:hover
+			{
+				background-color: red;
+				width: 12%;
+			}
+
+			.uk
+			{
+			width: 10%;
+			height: 26px;
+			border:1px solid black;
+			/*background-color: red;*/
+			/*margin: auto;*/
+			margin-top: 20px;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+			transition: width 2s;
+  			-webkit-transition: width 2s;
+
+			}
+
+			.uk:hover
+			{
+				background-color: lightgreen;
+				width: 12%;
+
+ 	
+
+			}
+
+			h2
+			{
+				font-size: 16px;
+				font-style: bold;
+				font-weight: 1200;
+			}
